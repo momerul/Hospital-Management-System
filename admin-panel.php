@@ -50,7 +50,6 @@
 				                  <?php get_doctor(); ?>
 			                  </select>
 			                  </div><br><br>
-
 			                  <div class="col-md-4"><label>Payment:</label></div>
 			                  <div class="col-md-8">
 			                   <select name="payment" class="form-control" required>
