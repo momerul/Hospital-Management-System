@@ -25,7 +25,8 @@
 	   	      <div class="col-md-2"><input type="submit" name="patient_search_submit" class="btn btn-light" value="search"></div>
 	   	    </div>
 	   	  </form>
-	   </div>	   
+	   </div>
+		
     </div>
 </div>
 <div class="card-body" style="background-color: #3498DB;color: #ffffff">
