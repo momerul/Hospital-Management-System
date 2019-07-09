@@ -16,6 +16,7 @@
 		        <input type="password" name="password" placeholder="enter password" class="form-control" required=><br>
 		        <input type="submit" name="login_submit" class="btn btn-primary">
 		     </form>
+			
 	   </div>
 	</div>
 </div>
