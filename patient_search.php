@@ -44,7 +44,6 @@ if(isset($_POST['patient_search_submit']))
         $docapp=$row['docapp'];
         $payment=$row['payment'];
   	
-
   	echo " <tr>
        <td>$fname</td>
        <td>$lname</td>
